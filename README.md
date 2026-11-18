@@ -1,4 +1,4 @@
-# VeriUnlearn: reproducible GPU research package
+# FABLE: reproducible GPU research package
 
 This package integrates the existing E5 higher-dimensional verifier with an expanded, memorization-grounded E6/E7 benchmark. It has **actual local smoke runs** and a separately configurable **full GPU research protocol**. The latter has **not been executed here**.
 
